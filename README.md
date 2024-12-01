@@ -8,5 +8,6 @@ Version: 1.4.6
 ```bash
 git clone https://github.com/shiwildy/RKHunter-Linux.git
 cd RKHunter-Linux
-./installer --install
+chmod 1700 installer.sh
+./installer.sh --install
 ```
